@@ -50,7 +50,7 @@
 install.packages(c("shiny", "shinythemes", "DT", "ggplot2", "RankResponse", "reshape2"))
 
 # 執行 App
-shiny::runApp("rankingApp
+shiny::runApp("rankingApp")
 ```
 
 ##  作者

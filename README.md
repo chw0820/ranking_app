@@ -51,6 +51,7 @@ install.packages(c("shiny", "shinythemes", "DT", "ggplot2", "RankResponse", "res
 
 # 執行 App
 shiny::runApp("rankingApp
+```
 
 ##  作者
 
